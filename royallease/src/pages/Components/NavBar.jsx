@@ -22,7 +22,7 @@ function NavBar() {
         <Link className='login-button'>Login</Link>
         <Link className='sign-button'>Sign Up</Link>
         <img className='moon' src={moondark} alt="" />
-
+<h1>hello</h1>
     </div>;
 }
 
